@@ -7,7 +7,7 @@ as follows:
 
 | Variable     | Description                                           |
 |--------------+-------------------------------------------------------|
-| species      | The Swedish name of the bird speceies tested          |
+| species      | The Swedish name of the bird species tested          |
 | result       | 0 for negative and 1 for positive for Avian Influenza |
 | ViltID       | An animal identifier                                  |
 | Ankomstdatum | The date the bird arrived at the lab                  |
