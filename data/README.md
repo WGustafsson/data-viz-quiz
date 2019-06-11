@@ -6,7 +6,7 @@ encoded in UTF-8 and has 6 columns separated by ";". The columns are
 as follows:
 
 | Variable     | Description                                           |
-| ------------ - ----------------------------------------------------- |
+| ------------ | ----------------------------------------------------- |
 | species      | The Swedish name of the bird species tested           |
 | result       | 0 for negative and 1 for positive for Avian Influenza |
 | ViltID       | An animal identifier                                  |
